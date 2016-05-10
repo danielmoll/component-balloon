@@ -116,7 +116,7 @@
     "@economist/component-link-button": "^3.0.1",
     "@economist/component-palette": "^1.4.5",
     "classnames": "^2.2.3",
-    "react": "^0.14.8",
+    "react": "^15.0.2",
     "react-click-outside": "^2.1.0"
   },
   "devDependencies": {
